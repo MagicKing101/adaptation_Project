@@ -690,7 +690,7 @@ a {
   right: 0 !important;
 }
 .menu__btn {
-  position: absolute;
+  position: fixed;
   top: 65px;
   right: 35px;
   width: 26px;
